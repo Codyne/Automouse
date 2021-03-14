@@ -2,7 +2,7 @@
 
 Records automatically or manually set mouse movements and clicks, then plays them back until the escape key is pressed.
 
-Requires `keyboard` and `mouse`
+Requires `keyboard` and `mouse` modules which you can get from `pip install`
 
 ## Record in Realtime
 
